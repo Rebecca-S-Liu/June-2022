@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "97dec34b-290a-4118-a40e-d35498cfab23": {
+      "ProjectGuid": "97dec34b-290a-4118-a40e-d35498cfab23",
+      "DisplayName": "DapperTutorial.Presentation",
+      "ColorIndex": 0
+    },
+    "d75fc186-01bf-46e4-82fd-69d88d11afe8": {
+      "ProjectGuid": "d75fc186-01bf-46e4-82fd-69d88d11afe8",
+      "DisplayName": "DapperTutorial.Core",
+      "ColorIndex": 1
+    },
+    "bb0336d6-6e3f-47e4-bc21-fbdeb74dd0e5": {
+      "ProjectGuid": "bb0336d6-6e3f-47e4-bc21-fbdeb74dd0e5",
+      "DisplayName": "DapperTutorial.Infrastructure",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 3
+}

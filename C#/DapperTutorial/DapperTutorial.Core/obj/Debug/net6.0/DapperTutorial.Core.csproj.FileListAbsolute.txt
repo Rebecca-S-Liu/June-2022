@@ -1,0 +1,12 @@
+C:\Users\Rebecca Liu\Desktop\Antra\June-2022\C#\DapperTutorial\DapperTutorial.Core\bin\Debug\net6.0\DapperTutorial.Core.deps.json
+C:\Users\Rebecca Liu\Desktop\Antra\June-2022\C#\DapperTutorial\DapperTutorial.Core\bin\Debug\net6.0\DapperTutorial.Core.dll
+C:\Users\Rebecca Liu\Desktop\Antra\June-2022\C#\DapperTutorial\DapperTutorial.Core\bin\Debug\net6.0\ref\DapperTutorial.Core.dll
+C:\Users\Rebecca Liu\Desktop\Antra\June-2022\C#\DapperTutorial\DapperTutorial.Core\bin\Debug\net6.0\DapperTutorial.Core.pdb
+C:\Users\Rebecca Liu\Desktop\Antra\June-2022\C#\DapperTutorial\DapperTutorial.Core\obj\Debug\net6.0\DapperTutorial.Core.csproj.AssemblyReference.cache
+C:\Users\Rebecca Liu\Desktop\Antra\June-2022\C#\DapperTutorial\DapperTutorial.Core\obj\Debug\net6.0\DapperTutorial.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rebecca Liu\Desktop\Antra\June-2022\C#\DapperTutorial\DapperTutorial.Core\obj\Debug\net6.0\DapperTutorial.Core.AssemblyInfoInputs.cache
+C:\Users\Rebecca Liu\Desktop\Antra\June-2022\C#\DapperTutorial\DapperTutorial.Core\obj\Debug\net6.0\DapperTutorial.Core.AssemblyInfo.cs
+C:\Users\Rebecca Liu\Desktop\Antra\June-2022\C#\DapperTutorial\DapperTutorial.Core\obj\Debug\net6.0\DapperTutorial.Core.csproj.CoreCompileInputs.cache
+C:\Users\Rebecca Liu\Desktop\Antra\June-2022\C#\DapperTutorial\DapperTutorial.Core\obj\Debug\net6.0\DapperTutorial.Core.dll
+C:\Users\Rebecca Liu\Desktop\Antra\June-2022\C#\DapperTutorial\DapperTutorial.Core\obj\Debug\net6.0\ref\DapperTutorial.Core.dll
+C:\Users\Rebecca Liu\Desktop\Antra\June-2022\C#\DapperTutorial\DapperTutorial.Core\obj\Debug\net6.0\DapperTutorial.Core.pdb

@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32002.185
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DapperTutorial.Presentation", "DapperTutorial.Presentation\DapperTutorial.Presentation.csproj", "{97DEC34B-290A-4118-A40E-D35498CFAB23}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DapperTutorial.Core", "DapperTutorial.Core\DapperTutorial.Core.csproj", "{D75FC186-01BF-46E4-82FD-69D88D11AFE8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DapperTutorial.Infrastructure", "DapperTutorial.Infrastructure\DapperTutorial.Infrastructure.csproj", "{BB0336D6-6E3F-47E4-BC21-FBDEB74DD0E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97DEC34B-290A-4118-A40E-D35498CFAB23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97DEC34B-290A-4118-A40E-D35498CFAB23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97DEC34B-290A-4118-A40E-D35498CFAB23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97DEC34B-290A-4118-A40E-D35498CFAB23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D75FC186-01BF-46E4-82FD-69D88D11AFE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D75FC186-01BF-46E4-82FD-69D88D11AFE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D75FC186-01BF-46E4-82FD-69D88D11AFE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D75FC186-01BF-46E4-82FD-69D88D11AFE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB0336D6-6E3F-47E4-BC21-FBDEB74DD0E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB0336D6-6E3F-47E4-BC21-FBDEB74DD0E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB0336D6-6E3F-47E4-BC21-FBDEB74DD0E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB0336D6-6E3F-47E4-BC21-FBDEB74DD0E5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61065F52-7ABA-4278-B79E-5FBF4B755B69}
+	EndGlobalSection
+EndGlobal
